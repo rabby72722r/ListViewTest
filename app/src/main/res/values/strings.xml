@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">ListViewTest</string>
+
+
+    <string-array name="dist">
+
+        <item>Dhaka</item>
+        <item>Khulna</item>
+        <item>Barisal</item>
+        <item>Noakhali</item>
+        <item>Chattagram</item>
+        <item>Pabna</item>
+        <item>Rajbari</item>
+        <item>Sylet</item>
+        <item>Faridpur</item>
+        <item>Chadpur</item>
+
+    </string-array>
+
+
+    <string name="dhaka">
+        <font color='red'><b>Dhaka</b> </font> District, Dhaka \nJela also Dhaka Zila)\n
+        is a district in central Bangladesh,[2] and
+        is the densest district in the nation. It is
+        a part of the Dhaka Division. Dhaka, the capital
+        of Bangladesh, rests on the eastern banks of the
+        Buriganga River which flows from the Turag to the
+        south of the district. While Dhaka (city corporation)
+        occupies only about a fifth of the area of Dhaka district,
+        it is the economic, political and cultural centre of the
+        district and the country as a whole. Dhaka District is an
+        administrative entity, and like many other cities, it does
+        not cover the modern conurbation which is Greater Dhaka,
+        which has spilled into neighbouring districts, nor does
+        the conurbation cover the whole district, as there are
+        rural areas within the district.
+
+          administrative entity, and like many other cities, it does
+        not cover the modern conurbation which is Greater Dhaka,
+        which has spilled into neighbouring districts, nor does
+        the conurbation cover the whole district, as there are
+        rural areas within the district.
+    </string>
+
+
+    <string name="khulna">
+        Dhaka District, Dhaka Jela also Dhaka Zila)\n
+        is a district in central Bangladesh,[2] and
+        is the densest district in the nation. It is
+        a part of the Dhaka Division. Dhaka, the capital
+        of Bangladesh, rests on the eastern banks of the
+        Buriganga River which flows from the Turag to the
+        south of the district. While Dhaka (city corporation)
+        occupies only about a fifth of the area of Dhaka district,
+        it is the economic, political and cultural centre of the
+        district and the country as a whole. Dhaka District is an
+        administrative entity, and like many other cities, it does
+        not cover the modern conurbation which is Greater Dhaka,
+        which has spilled into neighbouring districts, nor does
+        the conurbation cover the whole district, as there are
+        rural areas within the district.
+
+          administrative entity, and like many other cities, it does
+        not cover the modern conurbation which is Greater Dhaka,
+        which has spilled into neighbouring districts, nor does
+        the conurbation cover the whole district, as there are
+        rural areas within the district.
+    </string>
+
+
+</resources>
